@@ -1,3 +1,8 @@
+# [Netlify Link : ](https://salper4.netlify.app/)
+
+Netlify üzerinden bazı functionlarda hatalar oluşabilir hata ile karşılaşırsanız klonlayabilirsiniz.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
