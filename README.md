@@ -1,5 +1,12 @@
 ## [Netlify](https://salper4.netlify.app/)
 
+Netlify linkini açmadan önce dosyalar arasında bulunan server dosyasını ayağa kaldırmanız gerekmektedir.
+```
+cd server
+npm install
+npm start
+```
+
 Netlify üzerinden bazı functionlarda hatalar oluşabilir hata ile karşılaşırsanız klonlayabilirsiniz.
 
 
